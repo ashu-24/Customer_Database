@@ -103,7 +103,7 @@ Provided actionable insights for business optimization
 
 Clone the repository:
 
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/ashu-24/data-analytics-project.git
 
 
 Install required Python libraries:
