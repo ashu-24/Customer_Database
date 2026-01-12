@@ -1,7 +1,7 @@
 # Customer_Database
 This project analyzes customer shopping behavior using transactional data from 3,900  purchases across various product categories. The goal is to uncover insights into spending  patterns, customer segments, product preferences, and subscription behavior to guide strategic  business decisions. 
 
-📊 Data Analytics Project – Customer Insights
+📊 Data Analytics Project – Customer Database
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, from data loading and cleaning to analysis, visualization, and reporting.
@@ -103,7 +103,7 @@ Provided actionable insights for business optimization
 
 Clone the repository:
 
-git clone https://github.com/ashu-24/data-analytics-project.git
+git clone https://github.com/ashu-24/Customer_Database.git
 
 
 Install required Python libraries:
